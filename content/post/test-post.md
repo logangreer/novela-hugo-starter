@@ -1,7 +1,6 @@
 +++
 authors = []
-date = 2020-05-16T05:00:00Z
-draft = true
+date = 2020-05-16T06:20:00Z
 excerpt = "What does this look like?"
 hero = "/images/quadyssey-header.png"
 timeToRead = 3
