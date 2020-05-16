@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2020-05-16T06:20:00Z
-excerpt = "What does this look like?"
+excerpt = ""
 hero = "/images/quadyssey-header.png"
 timeToRead = 3
 title = "Test Post"
